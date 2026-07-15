@@ -1,0 +1,217 @@
+text,label
+"I am losing interest in this lesson.",0
+"This chapter is very boring.",0
+"I cannot stay focused during this lecture.",0
+"I feel sleepy while studying this topic.",0
+"This subject is not interesting anymore.",0
+"I am tired of reading the same concepts.",0
+"The lecture is making me yawn.",0
+"I don't feel like studying this chapter.",0
+"This lesson is repetitive and dull.",0
+"I am not enjoying today's class.",0
+
+"I solved every problem without any help.",1
+"I am confident about tomorrow's coding test.",1
+"I understand this algorithm completely.",1
+"I finished the assignment successfully.",1
+"I can explain this topic to others.",1
+"I believe I will score good marks.",1
+"I am ready for the practical exam.",1
+"I have mastered this programming concept.",1
+"I know exactly how this code works.",1
+"I feel fully prepared for the exam.",1
+
+"I don't understand how this function works.",2
+"This topic is confusing me.",2
+"I cannot understand this algorithm.",2
+"I am confused about this syntax.",2
+"I don't know how to solve this question.",2
+"This explanation is difficult to understand.",2
+"I don't know where to start.",2
+"I am unable to understand this example.",2
+"I don't understand pointers.",2
+"This concept is completely confusing.",2
+
+"I want to learn more about machine learning.",3
+"I am curious about neural networks.",3
+"I wonder how this algorithm works internally.",3
+"I would like to explore data science.",3
+"I want to know more about Python libraries.",3
+"I am interested in learning artificial intelligence.",3
+"I want to experiment with deep learning.",3
+"I enjoy exploring new technologies.",3
+"I would like to study cloud computing.",3
+"I am excited to discover new programming concepts.",3
+
+"I have been trying for hours and nothing works.",4
+"This error is making me frustrated.",4
+"I cannot fix this bug.",4
+"I feel very frustrated with this assignment.",4
+"I am stuck on this programming problem.",4
+"I keep getting the same error again.",4
+"This project is stressing me out.",4
+"I am tired of debugging this code.",4
+"I feel like giving up on this task.",4
+"This coding problem is driving me crazy.",4
+"I feel bored while reading this textbook.",0
+"This topic is too dull to continue.",0
+"I have completely lost interest in today's lesson.",0
+"I don't find this subject exciting.",0
+"I feel disengaged during online classes.",0
+"This chapter is making me lose concentration.",0
+"I am forcing myself to finish this lesson.",0
+"I wish this class were more interesting.",0
+"I am not motivated to continue studying.",0
+"This lesson feels endless and boring.",0
+
+"I am sure I can solve this problem.",1
+"I completed the coding challenge successfully.",1
+"I feel ready for the final examination.",1
+"I can answer every question confidently.",1
+"I understand this lesson very well.",1
+"I believe in my programming skills.",1
+"I solved the difficult algorithm easily.",1
+"I have practiced enough for the test.",1
+"I know I can complete this project.",1
+"I feel positive about my preparation.",1
+
+"I cannot understand this formula.",2
+"I am confused about object oriented programming.",2
+"This explanation doesn't make sense to me.",2
+"I don't understand the output of this code.",2
+"I am finding this lesson difficult.",2
+"I cannot follow the instructor's explanation.",2
+"I don't know why this program failed.",2
+"I need someone to explain this topic again.",2
+"This coding logic is confusing.",2
+"I don't understand this database query.",2
+
+"I want to know how blockchain works.",3
+"I am interested in learning cybersecurity.",3
+"I want to explore web development.",3
+"I wonder how operating systems manage memory.",3
+"I would like to learn computer vision.",3
+"I am eager to study robotics.",3
+"I enjoy learning new programming languages.",3
+"I want to understand how APIs work.",3
+"I would like to build my own application.",3
+"I am curious about software architecture.",3
+
+"I am frustrated because my code keeps crashing.",4
+"I can't solve this programming error.",4
+"I feel overwhelmed by this assignment.",4
+"I have tried every solution but nothing works.",4
+"This bug is making me angry.",4
+"I am exhausted from fixing these errors.",4
+"My project keeps failing again and again.",4
+"I feel irritated with this compiler error.",4
+"I don't know why this application isn't working.",4
+"I am losing patience with this debugging process.",4
+"I cannot concentrate on this lesson anymore.",0
+"This topic feels too repetitive.",0
+"I am not excited to study today.",0
+"I find this chapter extremely dull.",0
+"I keep getting distracted while reading.",0
+"This lesson is not keeping my attention.",0
+"I don't enjoy attending this class.",0
+"I wish this topic was more engaging.",0
+"I am reading but nothing feels interesting.",0
+"This chapter is making me lose motivation.",0
+
+"I solved the project on my own.",1
+"I feel capable of handling difficult questions.",1
+"I am confident that my solution is correct.",1
+"I completed the coding task successfully.",1
+"I understand every concept in this chapter.",1
+"I am prepared for today's viva.",1
+"I know I can solve advanced problems.",1
+"My practice has made me confident.",1
+"I feel ready to face any programming challenge.",1
+"I successfully fixed all the bugs.",1
+
+"I don't understand the purpose of this code.",2
+"This programming concept is difficult for me.",2
+"I am confused about this output.",2
+"I cannot understand this mathematical proof.",2
+"This example is not clear to me.",2
+"I don't know how this algorithm reaches the answer.",2
+"I am unable to follow this explanation.",2
+"I need help understanding this lesson.",2
+"I don't know why this code behaves like this.",2
+"I am confused by the instructions.",2
+
+"I want to explore artificial intelligence further.",3
+"I am interested in learning how chatbots work.",3
+"I wonder how recommendation systems are built.",3
+"I want to understand computer graphics.",3
+"I enjoy discovering new programming techniques.",3
+"I would like to study ethical hacking.",3
+"I am curious about distributed systems.",3
+"I want to know how databases store information.",3
+"I enjoy asking questions about technology.",3
+"I would like to learn how mobile apps are developed.",3
+
+"I am frustrated because my solution keeps failing.",4
+"I cannot understand why this error keeps appearing.",4
+"My code refuses to compile.",4
+"I feel stressed because I cannot finish this assignment.",4
+"I have spent the whole day debugging.",4
+"This problem is making me very angry.",4
+"I keep making the same mistake.",4
+"I am upset because my program doesn't work.",4
+"I have no idea why this bug still exists.",4
+"I feel like quitting this assignment.",4
+"I feel completely disconnected from this lesson.",0
+"This chapter is becoming monotonous.",0
+"I am not interested in continuing this topic.",0
+"I keep checking the clock during this lecture.",0
+"This lesson is too slow for me.",0
+"I don't feel engaged with today's topic.",0
+"I am finding this subject very dull.",0
+"I am struggling to stay awake during class.",0
+"This lecture is not capturing my attention.",0
+"I have lost all interest in this assignment.",0
+
+"I am certain I will pass this examination.",1
+"I can solve this algorithm without assistance.",1
+"I have practiced enough to feel confident.",1
+"I know my answers are correct.",1
+"I believe I can complete this project successfully.",1
+"I understand every step of this solution.",1
+"I feel proud of my programming skills.",1
+"I am ready for any coding challenge.",1
+"I solved this difficult problem with confidence.",1
+"I am sure I can explain this concept clearly.",1
+
+"I cannot understand this programming logic.",2
+"This explanation is making me more confused.",2
+"I don't know how to begin solving this problem.",2
+"I cannot follow these instructions.",2
+"I am confused about this coding syntax.",2
+"I don't understand why this algorithm works.",2
+"This concept is difficult to grasp.",2
+"I need someone to explain this chapter again.",2
+"I am unable to understand this diagram.",2
+"I don't know what this function actually does.",2
+
+"I want to learn more about cloud computing.",3
+"I am curious about quantum computing.",3
+"I would like to understand data mining.",3
+"I want to explore embedded systems.",3
+"I enjoy discovering how software works internally.",3
+"I am interested in learning game development.",3
+"I wonder how search engines work.",3
+"I want to know more about operating systems.",3
+"I am excited to study computer networks.",3
+"I would like to explore advanced Python concepts.",3
+
+"I am frustrated because nothing is working.",4
+"I keep facing the same issue repeatedly.",4
+"I am unable to remove this programming bug.",4
+"This assignment is making me feel hopeless.",4
+"I feel extremely irritated by these errors.",4
+"I have tried every possible solution.",4
+"My code keeps failing every time.",4
+"I am exhausted from debugging this application.",4
+"I cannot figure out why this code crashes.",4
+"I feel very disappointed with my progress.",4

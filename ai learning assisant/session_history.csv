@@ -1,0 +1,14 @@
+timestamp,input_text,bilstm_emotion,bilstm_confidence,bert_emotion,bert_confidence,agreement,final_emotion
+2026-07-13 11:55:21,"""I have verified the base requirements against the project criteria, and I am certain my solution is stable.""",Frustrated,100.0,Confident,98.23,False,Frustrated
+2026-07-13 11:56:33,"Everything is finished and I'm just sitting here waiting for the final process to complete; there’s really nothing left for me to do.""",Confused,100.0,Frustrated,91.2,False,Confused
+2026-07-13 12:20:56,I am sad because my friend not answer my phone,Frustrated,99.72,Frustrated,98.2,True,Frustrated
+2026-07-13 18:02:28,"""I’m sure I’ve solved the base requirement, but I’m really intrigued to see if there’s a more efficient way to implement it.""",Bored,100.0,Confident,88.41,False,Bored
+2026-07-14 12:46:25,I feeling very mad at my friends work,Confident,99.84,Frustrated,97.5,False,Confident
+2026-07-14 16:41:17,Its my first day in college but the friend insults me in class room,Bored,100.0,Frustrated,88.77,False,Bored
+2026-07-14 16:44:02,It is the saddest part of my day in whole year,Bored,100.0,Bored,79.61,True,Bored
+2026-07-14 16:50:25,my friend insulted me in college so I decided to take revenge,Curious,99.94,Frustrated,93.52,False,Curious
+2026-07-14 19:35:48,I don't understand this topic,Confused,99.96,Confused,98.93,True,Confused
+2026-07-14 19:36:47,This chapter is boring,Bored,99.86,Bored,98.93,True,Bored
+2026-07-14 19:37:28,This is the day for me because my friend insulted me in college,Bored,100.0,Frustrated,70.67,False,Bored
+2026-07-14 19:41:43,I am confused about this chapter,Confused,99.87,Confused,98.9,True,Confused
+2026-07-14 20:54:13,This error is  frustrating me,Confused,96.46,Frustrated,98.88,False,Frustrated
