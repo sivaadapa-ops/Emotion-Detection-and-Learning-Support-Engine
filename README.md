@@ -74,7 +74,7 @@ AI_LEARNING_ASSISTANT/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Learning-Assistant.git
+git clone https://github.com/sivaadapa-ops/Emotion-Detection-and-Learning-Support-Engine/tree/main
 ```
 
 Move into the project directory
